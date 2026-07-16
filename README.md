@@ -23,7 +23,7 @@ The model weights are not included because GitHub limits file sizes.
 
 Download them from the official source:
 
-https://pjreddie.com/media/files/yolov4.weights
+https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights
 
 Place the downloaded file in the project root:
 
